@@ -1,0 +1,62 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Rodrigo Figueiredo Abdo
+
+================================================================================
+RESUMO LEGÍVEL (não substitui a licença)
+================================================================================
+
+Você é livre para:
+
+  COMPARTILHAR — copiar e redistribuir o material em qualquer meio ou formato
+  ADAPTAR — remixar, transformar e criar a partir do material para
+            qualquer fim, mesmo que comercial
+
+O licenciante não pode revogar estas liberdades desde que você respeite
+os termos da licença.
+
+De acordo com os seguintes termos:
+
+  ATRIBUIÇÃO — Você deve dar o crédito apropriado, prover um link para a
+  licença e indicar se mudanças foram feitas. Você pode fazê-lo de qualquer
+  forma razoável, mas não de uma forma que sugira que o licenciante apoia
+  você ou o seu uso.
+
+  SEM RESTRIÇÕES ADICIONAIS — Você não pode aplicar termos jurídicos ou
+  medidas de caráter tecnológico que restrinjam legalmente outros de
+  fazerem algo que a licença permita.
+
+================================================================================
+COMO ATRIBUIR
+================================================================================
+
+Ao reutilizar este material, inclua a seguinte atribuição:
+
+  "Fundamentos de Aprendizado de Máquina Científico para Mecânica dos
+  Fluidos" por Rodrigo Figueiredo Abdo, licenciado sob CC BY 4.0.
+  Disponível em: https://github.com/neurofluidos
+
+================================================================================
+TEXTO COMPLETO DA LICENÇA
+================================================================================
+
+O texto legal completo da licença Creative Commons Attribution 4.0
+International está disponível em:
+
+  https://creativecommons.org/licenses/by/4.0/legalcode.pt
+
+Versão resumida:
+
+  https://creativecommons.org/licenses/by/4.0/deed.pt
+
+================================================================================
+NOTA SOBRE CÓDIGO-FONTE
+================================================================================
+
+Esta licença (CC BY 4.0) aplica-se ao MATERIAL DIDÁTICO: notas de aula,
+slides, documentos PDF, textos e materiais visuais.
+
+Eventuais arquivos de CÓDIGO-FONTE (scripts Python, notebooks Jupyter)
+incluídos neste repositório são licenciados separadamente sob a
+Licença MIT, salvo indicação em contrário no próprio arquivo ou em um
+arquivo LICENSE específico dentro da pasta correspondente.

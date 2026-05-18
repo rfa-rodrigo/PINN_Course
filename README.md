@@ -49,23 +49,22 @@ Os tópicos centrais incluem:
 
 ```
 .
-├── planejamento/
-│   └── planejamento_curso.pdf      # Ementa completa: 36 aulas, 7 módulos
-├── aulas/
-│   ├── aula01_aluno.pdf            # Panorama: IA e mecânica dos fluidos
-│   ├── aula02_aluno.pdf            # Revisão de álgebra linear I
-│   ├── aula03_aluno.pdf            # Revisão de álgebra linear II
-│   ├── aula04_aluno.pdf            # SVD: definição e interpretação
-│   ├── aula05_aluno.pdf            # SVD: truncamento e Eckart-Young
+├── Curso_PINN_Versão_72h - V2.pdf/ # Ementa completa: 36 aulas, 7 módulos
+├── Aulas/
+│   ├── Notas de aula 01.pdf        # Panorama: IA e mecânica dos fluidos
+│   ├── Notas de aula 02.pdf        # Revisão de álgebra linear I
+│   ├── Notas de aula 03.pdf        # Revisão de álgebra linear II
+│   ├── Notas de aula 04.pdf        # SVD: definição e interpretação
+│   ├── Notas de aula 05.pdf        # SVD: truncamento e Eckart-Young
 │   └── ...                         # (demais aulas em produção)
-├── tutoriais/                      # Notebooks Python (em construção)
+├── Tutoriais/                      # Notebooks Python (em construção)
 ├── LICENSE
 └── README.md
 ```
 
 ## Como usar este material
 
-**Para estudo individual:** comece pelo `planejamento_curso.pdf` para ter a visão geral, depois siga as aulas em ordem. Cada nota de aula é autocontida e inclui exercícios propostos com gradação de dificuldade.
+**Para estudo individual:** comece pelo `Curso_PINN_Versão_72h - V2.pdf` para ter a visão geral, depois siga as aulas em ordem. Cada nota de aula é autocontida e com gradação de dificuldade.
 
 **Para acompanhar as videoaulas:** cada PDF corresponde a um vídeo no canal [NeuroFluidos](https://www.youtube.com/@neurofluidos). Recomenda-se ler a "leitura preparatória" indicada antes de assistir.
 
@@ -75,7 +74,7 @@ Os tópicos centrais incluem:
 
 O curso é estruturado em torno de referências de acesso aberto sempre que possível. Os textos-base são:
 
-- **Brunton & Kutz (2022)** — *Data-Driven Science and Engineering* ([PDF gratuito](https://databookuw.com/databookV2.pdf))
+- **Brunton & Kutz (2022)** — *Data-Driven Science and Engineering* ([online gratuito](https://databookuw.com/databookV2.pdf))
 - **Goodfellow, Bengio & Courville (2016)** — *Deep Learning* ([online gratuito](https://www.deeplearningbook.org))
 - **Strang (2019)** — *Linear Algebra and Learning from Data*
 
