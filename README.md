@@ -49,7 +49,7 @@ Os tópicos centrais incluem:
 
 ```
 .
-├── Curso_PINN_Versão_72h - V2.pdf/ # Ementa completa: 36 aulas, 7 módulos
+├── Planejamento de aulas.pdf/      # Ementa completa: 36 aulas, 7 módulos
 ├── Aulas/
 │   ├── Notas de aula 01.pdf        # Panorama: IA e mecânica dos fluidos
 │   ├── Notas de aula 02.pdf        # Revisão de álgebra linear I
@@ -64,7 +64,7 @@ Os tópicos centrais incluem:
 
 ## Como usar este material
 
-**Para estudo individual:** comece pelo `Curso_PINN_Versão_72h - V2.pdf` para ter a visão geral, depois siga as aulas em ordem. Cada nota de aula é autocontida e com gradação de dificuldade.
+**Para estudo individual:** comece pelo `Planejamento de aulas.pdf` para ter a visão geral, depois siga as aulas em ordem. Cada nota de aula é autocontida e com gradação de dificuldade.
 
 **Para acompanhar as videoaulas:** cada PDF corresponde a um vídeo no canal [NeuroFluidos](https://www.youtube.com/@neurofluidos). Recomenda-se ler a "leitura preparatória" indicada antes de assistir.
 
